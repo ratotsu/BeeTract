@@ -1,4 +1,4 @@
-# ESP32 – Reprodutor Automático de Áudio com Sensor LDR
+# "BeeTract" - ESP32 – Reprodutor Automático de Áudio com Sensor LDR
 
 Sistema embarcado desenvolvido com ESP32 para reprodução automática de arquivos de áudio de acordo com a luminosidade do ambiente.
 
